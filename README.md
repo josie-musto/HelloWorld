@@ -1,7 +1,7 @@
-HelloWorld
-==========
+Hello World
+===========
 
-The simplest project of all.
+The simplest project of all. A single web page which does absolutely nothing.
 
 This is the first project submitted to GitHub by TriSys Business Software.
 
